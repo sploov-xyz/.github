@@ -1,12 +1,13 @@
-## Hi there 👋
 
-<!--
+<p align="center">
+  <img src="https://github.com/sploov-xyz/.github/blob/main/assets/profile/sploov_profile_banner.svg" alt="Sploov banner" />
 
-**Here are some ideas to get you started:**
+<p align="center">
+  <strong>Architect the unseen.</strong>
+</p>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Sploov is a developer-focused organization crafting reliable, scalable systems that run quietly behind the scenes.
+
+We build infrastructure, automation, and platform tooling with a deep focus on architecture, performance, and long-term maintainability.
+
+Open by default. Built to last.
